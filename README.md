@@ -1,2 +1,0 @@
-# WYK
-My projects
